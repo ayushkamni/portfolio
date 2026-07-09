@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <rect width="800" height="500" fill="#0B0B12"/>
+  <rect x="40" y="40" width="720" height="420" rx="24" fill="url(#bg1)" opacity="0.9"/>
+  <rect x="80" y="100" width="300" height="24" rx="12" fill="white" opacity="0.9"/>
+  <rect x="80" y="150" width="220" height="16" rx="8" fill="white" opacity="0.35"/>
+  <rect x="80" y="190" width="260" height="16" rx="8" fill="white" opacity="0.35"/>
+  <rect x="80" y="260" width="180" height="48" rx="24" fill="#7C3AED"/>
+  <rect x="450" y="90" width="250" height="280" rx="20" fill="white" opacity="0.08"/>
+  <circle cx="575" cy="200" r="60" fill="#06B6D4" opacity="0.35"/>
+  <text x="80" y="380" fill="white" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">Lost &amp; Found System</text>
+  <defs>
+    <linearGradient id="bg1" x1="40" y1="40" x2="760" y2="460" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#312E81"/>
+      <stop offset="1" stop-color="#164E63"/>
+    </linearGradient>
+  </defs>
+</svg>
